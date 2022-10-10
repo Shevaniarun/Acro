@@ -1,3 +1,4 @@
 a = 5
 b = 3
-print(a)
+c = a+b
+print(c)
